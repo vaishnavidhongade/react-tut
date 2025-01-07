@@ -13,7 +13,8 @@ function Demo() {
 function App() {
   return (
     <div className="App">
-      <div className='App-header'> hello world
+      <div className='App-header'>
+        <h1>this is my first react</h1>
         <Demo />
       </div>
 
